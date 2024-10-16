@@ -73,7 +73,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
   ```json
   "Conectado"
 
-  ### 2. Listar clientes
+### 2. Listar clientes
 - **Método**: `GET`
 - **URL**: `/Clientes`
 - **Descripción**: Obtiene una lista de todos los clientes almacenados.
